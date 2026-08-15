@@ -1,7 +1,7 @@
 #WAP for "\t" and "\n" 
-#str=input("Enter yo name")
-#l=len(str)
-#print("Name:",str,"\tLength:",l)
+# str=input("Enter yo name")
+# l=len(str)
+# print("Name:",str,"\tLength:",l)
 
 #WAP for count function
 #str=input("Enter a sentence ")
