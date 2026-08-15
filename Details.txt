@@ -1,3 +1,0 @@
-Hello World! My name is Tirtho Roy.
-I am 19 years old and I scored 95% in my exams.
-Python_3.13 is awesome! Let's learn File I/O together :
