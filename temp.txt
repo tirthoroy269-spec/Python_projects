@@ -1,0 +1,38 @@
+    #if (user =="r" and comp =="p") :
+    #     print("Computer choose ",p)
+    #     print("You choose ",r)
+    #     print ("You lost")
+    # elif (user =="r" and comp =="s") :
+    #      print("Computer choose ",s)
+    #      print("You choose ",r)
+    #      print ("You won")
+    # elif (user =="r" and comp =="r") :
+    #      print("Computer choose ",r)
+    #      print("You choose ",r)
+    #      print ("Draw")
+    # elif (user =="s" and comp =="p") :
+    #         print("Computer choose ",p)
+    #         print("You choose ",s)
+    #         print ("You Won")
+    # elif (user =="s" and comp =="s") :
+    #          print("Computer choose ",s)
+    #          print("You choose ",s)
+    #          print ("Draw")
+    # elif (user =="s" and comp =="r") :
+    #          print("Computer choose ",r)
+    #          print("You Lost ",s)
+    #          print ("Draw")
+    # elif (user =="p" and comp =="p") :
+    #             print("Computer choose ",p)
+    #             print("You choose ",p)
+    #             print ("Draw")
+    # elif (user =="p" and comp =="s") :
+    #              print("Computer choose ",s)
+    #              print("You choose ",p)
+    #              print ("You Lost")
+    # elif (user =="p" and comp =="r") :
+    #              print("Computer choose ",r)
+    #              print("You Lost ",p)
+    #              print ("You Won")
+    # else:
+    #         print("Invalid Input")
